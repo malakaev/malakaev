@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">Hi there, I'm Muslim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm studying programming at School 21. And I'm interested in life. 🇷🇺</h3>
+
 <!--
 **malakaev/malakaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
